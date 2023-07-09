@@ -2,6 +2,8 @@
 
 https://drive.google.com/file/d/1rkNr6GHSE9ulRs39BB4RC80aKMg1c7Jw/view
 
+См. скрипт целиком в файле [hw05.sql](./hw05.sql)
+
 ## Создайте представление, в которое попадут автомобили стоимостью до 25 000 долларов
 
 ```sql
